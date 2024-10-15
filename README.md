@@ -1,4 +1,4 @@
-# Discussion Forum WebApp
+# Discussion Forum 
 
 A **Reddit-like** discussion forum WebApp built using **Next.js**. Users can create topics, add multiple questions under each topic, and engage in real-time discussions with comment-based chats for each question.
 
@@ -30,5 +30,5 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/discussion-forum-webapp.git
-   cd discussion-forum-webapp
+   git clone https://github.com/maurya050/Discussion-Forum.git
+   cd Discussion-Forum
